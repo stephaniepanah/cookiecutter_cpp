@@ -1,0 +1,2 @@
+add_executable(cookiecutter_cpp_app cookiecutter_cpp_app.cpp)
+target_link_libraries(cookiecutter_cpp_app PRIVATE cookiecutter_cpp)
